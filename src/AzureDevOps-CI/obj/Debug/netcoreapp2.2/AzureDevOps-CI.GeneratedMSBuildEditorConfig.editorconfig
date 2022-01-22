@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AzureDevOps_CI
+build_property.ProjectDir = C:\03-Projects\millisap\AzureDevOps-CI\src\AzureDevOps-CI\
